@@ -1,13 +1,13 @@
 
 {
-  "name": "TG File Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "name": "Mantap File Storage",
+  "description": "file sharing bot store posts and it can access by special links\n\n🏩 Channel:__ @mantapvids\n",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/softmilkpc/mantapfile",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -16,7 +16,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1290356065"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -32,11 +32,11 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001211876481"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.\n\n🏩 Channel:__ @mantapvids\n"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
