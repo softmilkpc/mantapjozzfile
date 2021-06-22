@@ -3,7 +3,9 @@
 
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+Installation (Cloud) 🌩
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/softmilkpc/mantapjozzfile/tree/master)
 
 #### Deploy in your VPS
 ````bash
